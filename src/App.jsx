@@ -16,7 +16,7 @@ const PrivateRoute = ({ children }) => {
 
 function App() {
   return (
-    <Router>
+    <Router basename="/Globai">
       <Routes>
         {/* Rota raiz redireciona para login */}
         <Route path="/" element={<Navigate to="/login" />} />
