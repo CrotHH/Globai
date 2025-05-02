@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Globai/static/css/main.7342e264.css",
+    "main.js": "/Globai/static/js/main.f1fb18d5.js",
+    "index.html": "/Globai/index.html",
+    "main.7342e264.css.map": "/Globai/static/css/main.7342e264.css.map",
+    "main.f1fb18d5.js.map": "/Globai/static/js/main.f1fb18d5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7342e264.css",
+    "static/js/main.f1fb18d5.js"
+  ]
+}
